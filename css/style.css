@@ -8,7 +8,7 @@ body {
 }
 
 @media only screen and (max-width: 600px) {
-  navbar {
-    background-color: lightblue;
+  body {
+    font-size: 12px;
   }
 }
