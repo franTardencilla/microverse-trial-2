@@ -1,14 +1,14 @@
-body{
-    display: flex;
+body {
+  display: flex;
 }
 
-#navbar{
-    display: flex;
-    flex-direction: column;
+#navbar {
+  display: flex;
+  flex-direction: column;
 }
 
 @media only screen and (max-width: 600px) {
-    #navbar {
-      background-color: lightblue;
-    }
+  navbar {
+    background-color: lightblue;
   }
+}
